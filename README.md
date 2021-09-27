@@ -11,7 +11,7 @@ ToPuzzle is application that load an image and draw puzzle lines on it.
 3. run "make" 
 
 # Use ToPuzzle
-./ToPuzzle -i file -o output -r number -c number -d e/h
+./ToPuzzle -i file -o output -r number -c number -d e/h -w channel1 channel2 channel3
 
 # Arguments
 The following arguments are currently supported:
